@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Java OOP**
 
+- My Portfolio Web site https://portfoliothimali.netlify.app/
+
 - 📝 I regularly write articles on [https://bossthimtech.blogspot.com/](https://bossthimtech.blogspot.com/)
 
 - 📫 How to reach me **thimaliruwanthika2000@gmail.com**
